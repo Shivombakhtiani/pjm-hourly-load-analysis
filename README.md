@@ -64,11 +64,5 @@ Keep `PJM_Load_hourly.csv` in the same folder as the notebook.
 
 ## Tools Used
 
-Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
+Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook (colab)
 
-## Possible Improvements
-
-- Add lag features (load from previous hours/days) for time series forecasting
-- Use a chronological train-test split instead of a random split
-- Try Gradient Boosting (XGBoost / LightGBM)
-- Tune Random Forest hyperparameters with GridSearchCV
